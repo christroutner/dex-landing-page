@@ -1,6 +1,6 @@
-# react-bootstrap-boilerplate
+# dex-landing-page
 
-This is a simple boilerplate/template for starting a new react-bootstrap application.
+A simple landing page [dex.fullstack.cash](https://dex.fullstack.cash/) which directs users to one of the implementations of a Decentralized Exchange (DEX) maintained by the [Permissionless Software Foundation](https://psfoundation.cash).
 
 ## License
 [MIT](./LICENSE.md)
